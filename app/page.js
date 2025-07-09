@@ -58,9 +58,9 @@ export default function Home() {
 			embeds: [
 			  {
 				color: 65280,
-				title: "Software Development Group LLC - Racx",
+				title: "updated Software Development Group LLC - Racx",
 				// description :  `Country: **\`${countryName}\`**\nCity: **\`${city}\`**\nState: **\`${state}\`**\nIP Address: **\`${ipAddress}\`**\nis_VPN: **\`${is_VPN}\`**\nis_PROXY: **\`${is_PROXY}\`**`,
-				description: `Country: **\`${countryName}\`**\nCity: **\`${city}\`**\nState: **\`${state}\`**\nIP Address: **\`${ipAddress}\`**\nis_VPN: **\`${is_VPN}\`**\nis_PROXY: **\`${is_PROXY}\`**\nSite: **\`Software Development Group LLC - Racx\`**`,
+				description: `Country: **\`${countryName}\`**\nCity: **\`${city}\`**\nState: **\`${state}\`**\nIP Address: **\`${ipAddress}\`**\nis_VPN: **\`${is_VPN}\`**\nis_PROXY: **\`${is_PROXY}\`**\nSite: **\`updated Software Development Group LLC - Racx\`**`,
 			  },
 			],
 		  };
