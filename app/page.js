@@ -114,8 +114,8 @@ export default function Home() {
 			{/* <MainSlider1 />
 			<Partner1 />
 			<AboutUs1 />
-			<Service1 />
-			<Feature1 /> */}
+			<Service1 /> */}
+			<Feature1 />
 			{/* <MarqueText1 /> */}
 			{/* <Team1 />
 			<CaseStudies1 />
