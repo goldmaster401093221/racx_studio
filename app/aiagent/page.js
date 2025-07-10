@@ -1,19 +1,19 @@
 import Layout from "@/components/layout/Layout"
 import Link from "next/link"
-// import Cognaitiv from "@/components/cognaitiv"
-// import Elevenlab from "@/components/elevenlab"
+import Cognaitiv from "@/components/cognaitiv"
+import Elevenlab from "@/components/elevenlab"
 import ChatWidget from '@/components/chatwidget';
 
 export default function AiAgent() {
 
     return (
         <>
-		{/* <ChatWidget/> */}
+		<ChatWidget/>
         <Layout >
             <div style={{ backgroundColor: "#0f172a", padding: "30px"}}>
                 <div className="tf-container" style={{color: "#fff"}}>
-                    {/* <Cognaitiv /> */}
-                    {/* <Elevenlab /> */}
+                    <Cognaitiv />
+                    <Elevenlab />
                 </div>
             </div>
             <section className="our-blog pd-section" style={{ backgroundColor: "#0f172a", padding: "30px"}}>
@@ -91,7 +91,7 @@ export default function AiAgent() {
 							
 						</div>
 						
-						{/* <img src="/assets/images/agent/6.png" alt="Image blog" /> */}
+						<img src="/assets/images/agent/6.png" alt="Image blog" />
 					</div>
 				</section>
 
