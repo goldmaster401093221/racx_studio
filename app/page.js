@@ -111,19 +111,19 @@ export default function Home() {
 		<Layout headerStyle={1} footerStyle={1}>
 
 
-			<MainSlider1 />
+			{/* <MainSlider1 />
 			<Partner1 />
 			<AboutUs1 />
 			<Service1 />
-			<Feature1 />
+			<Feature1 /> */}
 			{/* <MarqueText1 /> */}
-			<Team1 />
+			{/* <Team1 />
 			<CaseStudies1 />
 			<Feature2 />
 			<Cta1 />
 			<Testimonial1 />
 			<Blog1 />
-			<Contact1 />
+			<Contact1 /> */}
 			
 			
 		</Layout>
