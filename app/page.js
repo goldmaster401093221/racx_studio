@@ -108,7 +108,7 @@ export default function Home() {
 
 		<ChatWidget/>
 
-		{/*<Layout headerStyle={1} footerStyle={1}>*/}
+		<Layout headerStyle={1} footerStyle={1}>
 
 
 			<MainSlider1 />
