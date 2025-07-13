@@ -8,7 +8,7 @@ export default function AiAgent() {
 
     return (
         <>
-		<ChatWidget/>
+		{/* <ChatWidget/> */}
         <Layout >
             <div style={{ backgroundColor: "#0f172a", padding: "30px"}}>
                 <div className="tf-container" style={{color: "#fff"}}>
