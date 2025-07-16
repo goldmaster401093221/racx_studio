@@ -30,7 +30,7 @@ const ChatWidget = () => {
 
 export default ChatWidget;
 
-
+// Demo chatwidget
 // const ChatWidget = () => {
 //   useEffect(() => {
 //     if (window.chatWidgetScriptLoaded) return;
