@@ -106,7 +106,7 @@ export default function Home() {
 
 		
 
-		{/* <ChatWidget/> */}
+		<ChatWidget/>
 
 		<Layout headerStyle={1} footerStyle={1}>
 
