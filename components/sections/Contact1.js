@@ -57,7 +57,7 @@ export default function Contact1() {
 									</div>
 									<div className="contact-content">
 										<span className="font-man">Call For Inquiry</span>
-										<p>+1 (646) 504-0807 </p>
+										<p>+X (XXX) XXX-XXXX </p>
 									</div>
 								</div>
 								<div className="contact-wrap flex-three wow fadeInUpSmall" data-wow-delay=".5s">

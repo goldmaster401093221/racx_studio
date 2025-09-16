@@ -77,7 +77,7 @@ export default function Footer2() {
 									Ridgewood, NJ</p>
 								<h5 className="title-footer text-white">Contact</h5>
 								<p className="font-man text-lcation ">info@softwaredevelopmentgroup.net</p>
-								<p className="phone text-white">+1 (646) 504-0807</p>
+								<p className="phone text-white">+X (XXX) XXX-XXXX</p>
 							</div>
 						</div>
 					</div>

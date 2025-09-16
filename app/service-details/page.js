@@ -396,7 +396,7 @@ export default function ServiceDetails() {
 											</div>
 											<div className="contact-content">
 												<span className="font-man text-white">Call For Inquiry</span>
-												<p>+1 (646) 504-0807</p>
+												<p>+X (XXX) XXX-XXXX</p>
 											</div>
 										</div>
 										<div className="contact-wrap flex-three">

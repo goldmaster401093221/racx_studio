@@ -32,7 +32,7 @@ export default function Offcanvas({ handleOffcanvas, isOffcanvas }) {
 						<p className="font-man text-lcation"> <br />
 							Ridgewood, NJ</p>
 						<p className="font-man text-lcation ">info@softwaredevelopmentgroup.net</p>
-						<p className="phone">+1 (646) 504-0807 </p>
+						<p className="phone">+X (XXX) XXX-XXXX </p>
 					</div>
 					<div className="follow-social">
 						<span>Follow Us</span>

@@ -52,7 +52,7 @@ export default function Footer3() {
 									Ridgewood, NJ</p>
 								<h5 className="title-footer text-white">Contact</h5>
 								<p className="font-man text-lcation ">info@softwaredevelopmentgroup.net</p>
-								<p className="phone text-white">+1 (646) 504-0807 </p>
+								<p className="phone text-white">+X (XXX) XXX-XXXX </p>
 							</div>
 						</div>
 						<div className="col-12 col-sm-6 col-lg-3">

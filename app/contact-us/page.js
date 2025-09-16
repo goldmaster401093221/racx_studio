@@ -38,7 +38,7 @@ export default function ContactUs() {
 													<div className="content">
 														<h4>Phone</h4>
 														{/* <p>+1 (368) 567 89 54</p> */}
-														<p>+1 (646) 504-0807</p>
+														<p>+X (XXX) XXX-XXXX</p>
 													</div>
 												</div>
 											</div>

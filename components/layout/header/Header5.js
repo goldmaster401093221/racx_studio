@@ -40,7 +40,7 @@ export default function Header5({ scroll, isMobileMenu, handleMobileMenu, handle
 											<ul className="flex align-center">
 												<li className>
 													<i className="icon-phone2" />
-													<span>+1 (646) 504-0807 </span>
+													<span>+X (XXX) XXX-XXXX </span>
 												</li>
 											</ul>
 										</div>

@@ -85,7 +85,7 @@ export default function Footer5() {
 									<div className="address">
 										<h5 className="title-footer text-white">Contact</h5>
 										<p className="font-man text-lcation text-white">info@softwaredevelopmentgroup.net</p>
-										<p className="phone text-white">+1 (646) 504-0807 </p>
+										<p className="phone text-white">+X (XXX) XXX-XXXX </p>
 									</div>
 								</div>
 							</div>

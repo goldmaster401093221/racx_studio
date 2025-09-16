@@ -30,7 +30,7 @@ export default function MainSlider1() {
 									{/* <p className="des text-white fw-500 mb-40 wow fadeInUpSmall" data-wow-delay=".3s">25+ Years Of Experience In Tech
 										Services
 									</p> */}
-									<p className="des text-white fw-500 mb-40 wow fadeInUpSmall" data-wow-delay=".3s">+1 (646) 504-0807
+									<p className="des text-white fw-500 mb-40 wow fadeInUpSmall" data-wow-delay=".3s">+X (XXX) XXX-XXXX
 									</p>
 									<p className="des text-white fw-500 mb-40 wow fadeInUpSmall" data-wow-delay=".3s">info@softwaredevelopmentgroup.net
 									</p>
