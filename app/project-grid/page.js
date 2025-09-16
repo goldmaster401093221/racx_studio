@@ -115,7 +115,7 @@ export default function ProjectGrid() {
 												</div>
 											</div>
 											<div className="tf-image-box">
-												<Link href="https://drive.google.com/file/d/1YmsXya3nsirELWvQ7wfnl9DZOj0zeLGs/view?usp=drive_link" className="image relative overflow-hiden">
+												<Link href="https://drive.google.com/file/d/1EPcG-hTo5sdP3SA9WjeplEE_y1awTce2/view?usp=drive_link" className="image relative overflow-hiden">
 													<img src="/assets/images/project/pj-grid5.jpg" alt="image" />
 												</Link>
 												<div className="content flex-two">
@@ -125,9 +125,9 @@ export default function ProjectGrid() {
 															<div className="line" />
 															<span className="category font-man">Crypto Engineering</span>
 														</div>
-														<h3 className="title"><Link href="https://drive.google.com/file/d/1YmsXya3nsirELWvQ7wfnl9DZOj0zeLGs/view?usp=drive_link">Crypto Trading Bot</Link></h3>
+														<h3 className="title"><Link href="https://drive.google.com/file/d/137NyR42jlahFHGePXmy53YSYPP_1sreM/view?usp=drive_link">Crypto Trading Bot</Link></h3>
 													</div>
-													<Link href="https://drive.google.com/file/d/1YmsXya3nsirELWvQ7wfnl9DZOj0zeLGs/view?usp=drive_link" className="icon flex-five">
+													<Link href="https://drive.google.com/file/d/137NyR42jlahFHGePXmy53YSYPP_1sreM/view?usp=drive_link" className="icon flex-five">
 														<i className="icon-angle-downs" />
 													</Link>
 												</div>
